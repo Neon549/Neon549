@@ -24,16 +24,16 @@ I build reliable Agent systems with controlled autonomy, tool use, memory, and e
 
 An event-driven Agent system for financial analysis with supervised self-evolution.
 
-- Built an `InvestmentRuntime` to manage task state, context, model configuration, and Agentic Loops.
+- Built an InvestmentRuntime to manage task state, context, model configuration, and Agentic Loops.
 - Designed restricted Skill/Subagent orchestration with permission limits, call limits, output gates, deduplication, and execution tracing.
 - Implemented document understanding with MinerU, PyMuPDF/OCR fallback, page-level citations, and version-aware evidence extraction.
-- Combined pgvector HNSW, BM25, and Reciprocal Rank Fusion for news retrieval, reaching an offline `Recall@10` of `0.8707`.
-- Developed a layered context and memory pipeline from `Transcript` to `SessionMemory` and `ContextWindow Builder` under a strict token budget.
+- Combined pgvector HNSW, BM25, and Reciprocal Rank Fusion for news retrieval, reaching an offline Recall@10 of 0.8707.
+- Developed a layered context and memory pipeline from Transcript to SessionMemory and ContextWindow Builder under a strict token budget.
 
 ## Open-Source Contributions
 
-- **DeerFlow** — 
-- **HiveMind** — 
+- **DeerFlow** —
+- **HiveMind** —
 
 ## Contact
 
@@ -42,7 +42,5 @@ An event-driven Agent system for financial analysis with supervised self-evoluti
 ---
 
 <div align="center">
-
-Building practical, reliable, and controllable Agents.
-
+  <img src="./cat-banner.jpg" width="800" alt="Cat working on a laptop">
 </div>
