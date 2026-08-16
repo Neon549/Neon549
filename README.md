@@ -30,12 +30,10 @@ An event-driven Agent system for financial analysis with supervised self-evoluti
 - Combined pgvector HNSW, BM25, and Reciprocal Rank Fusion for news retrieval, reaching an offline `Recall@10` of `0.8707`.
 - Developed a layered context and memory pipeline from `Transcript` to `SessionMemory` and `ContextWindow Builder` under a strict token budget.
 
-**Tech stack:** Python · Agent Runtime · Harness · PostgreSQL · pgvector · MinerU · MCP · React
-
 ## Open-Source Contributions
 
-- **DeerFlow** — Contributed to an open-source Agent project.
-- **HiveMind** — Contributed to an open-source Agent project.
+- **DeerFlow** — 
+- **HiveMind** — 
 
 ## Contact
 
