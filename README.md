@@ -37,38 +37,6 @@ An event-driven Agent system for financial analysis with supervised self-evoluti
 - **DeerFlow** — Contributed to an open-source Agent project.
 - **HiveMind** — Contributed to an open-source Agent project.
 
-## Agent Engineering Interests
-
-```text
-Agent Orchestration     Planner · Subagent · Skills · Agentic Loop
-Agent Reliability       Harness · Permission Control · Output Gates · Fallbacks
-Memory & Context        RAG · Session Memory · Context Compression · pgvector
-Tool Integration        Function Calling · MCP · Tool Routing · Tool Validation
-Evaluation              Ground Truth · Boundary Cases · Structured Outputs · Ablation
-Deployment              Docker · Linux · PostgreSQL · Local and Cloud Models
-```
-
-## Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-5B5B5B?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neon549&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Yulin's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neon549&layout=compact&hide_border=true&theme=transparent" alt="Yulin's top languages" />
-
-</div>
-
 ## Contact
 
 📧 [yulingyu08@gmail.com](mailto:yulingyu08@gmail.com)
