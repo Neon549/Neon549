@@ -2,7 +2,7 @@
 
 # Hi, I'm 余林杨 👋
 
-### Agent Application Developer · Master of Artificial Intelligence at UNSW
+### Agent Developer · Master of Artificial Intelligence at UNSW
 
 I build reliable Agent systems with controlled autonomy, tool use, memory, and evaluation.
 
