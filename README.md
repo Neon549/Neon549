@@ -29,8 +29,8 @@ An event-driven Agent system for financial analysis with supervised self-evoluti
 
 ## Open-Source Contributions
 
-- **DeerFlow** —
-- **HiveMind** —
+- **DeerFlow** — contributer
+- **Finagent** — core contributer
 
 ## Contact
 
